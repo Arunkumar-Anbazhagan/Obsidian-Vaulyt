@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "27d763fff3908535",
+        "id": "583d1bcee849bc41",
         "type": "tabs",
         "children": [
           {
-            "id": "47dc47fb436ce5ff",
+            "id": "7514c0ca1b9e380f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -203,13 +196,14 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "structured-tree:Open Structured Tree": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "47dc47fb436ce5ff",
+  "active": "7514c0ca1b9e380f",
   "lastOpenFiles": [
-    "PlayWright/PlayWright with TypeScript.md",
     "Untitled.canvas",
+    "PlayWright/PlayWright with TypeScript.md",
     "PlayWright/Untitled.md",
     "Running.md",
     "Trace Viewer.md",
