@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "3ddda1a47d56ae8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "27d763fff3908535",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47dc47fb436ce5ff",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "352f560a06fa3863",
+    "type": "split",
+    "children": [
+      {
+        "id": "46dcc5d0b4e24a4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55d91349034adbd5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cd0352e1da09d18e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aac64507362f50a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "bfde8a6824ee6a93",
+            "type": "leaf",
+            "state": {
+              "type": "structured-tree-view",
+              "state": {},
+              "icon": "structured-activity-bar",
+              "title": "Structured Tree"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1de82ae668a369a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "48ecffc467f177b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73c2777bd5ad25a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "97d71fd14cd041a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "05e20bc19d31d689",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "22ac6b3b034ea9f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "ec25186933a2d3a0",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "509e46d93ef06bc7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "structured-tree:Open Structured Tree": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "47dc47fb436ce5ff",
+  "lastOpenFiles": [
+    "PlayWright/PlayWright with TypeScript.md",
+    "Untitled.canvas",
+    "PlayWright/Untitled.md",
+    "Running.md",
+    "Trace Viewer.md",
+    "PlayWright/Installing PlayWright.md",
+    "Untitled",
+    "PlayWright/Running Tests after Installing PlayWright.md",
+    "PlayWright/First Test.md",
+    "Welcome.md",
+    "API/API Status Codes.md",
+    "~$All codes - Spreadsheet.xlsx",
+    "OneNote/Arun's Notebook/HttpCodes/All codes.md",
+    "create a link.md",
+    "OneNote/Quotes/New Section 1/Vinland Saga.md",
+    "OneNote/Quotes/New Section 1/Time is not only spending but for.md",
+    "OneNote/Quotes/Paradoxes/15 Paradox.md",
+    "OneNote/Arun's Notebook/Quick Notes/Aditya Birla Policies.md",
+    "2025-10-22.md",
+    "PlayWright",
+    "OneNote/Arun's Notebook/Ration Card Application/தமிழ்.md",
+    "OneNote/Arun's Notebook/demo part-2/Subcontractor.md",
+    "OneNote/Arun's Notebook/Budget/March 2025 - 18,170.md",
+    "OneNote/Learning/Postman/Newman Collection runner.md",
+    "OneNote/Learning/Postman/Mock Server.md",
+    "OneNote/Learning/Java/Constructor.md",
+    "OneNote/Learning/Excel/Date Functions.md",
+    "Exported image 20251022060949-10.jpeg",
+    "Exported image 20251022060511-0.png",
+    "Exported image 20251022060810-1.png",
+    "Exported image 20251022060808-0.png",
+    "Untitled 1.base",
+    "Exported image 20251022061035-26.png",
+    "Exported image 20251022061037-27.png",
+    "Exported image 20251022061038-28.png",
+    "Exported image 20251022061040-29.png",
+    "Exported image 20251022061045-30.png",
+    "Exported image 20251022061049-31.png",
+    "Untitled.base",
+    "OneNote/Arun's Notebook/Series/Untitled-20251022061120.md",
+    "OneNote/Arun's Notebook/Series/Korean.md",
+    "OneNote/Arun's Notebook/Series",
+    "OneNote/Arun's Notebook/Selenium",
+    "OneNote/Arun's Notebook/Ration Card Application",
+    "OneNote/Arun's Notebook/Quick Notes",
+    "OneNote/Arun's Notebook/New Section 1"
+  ]
+}
