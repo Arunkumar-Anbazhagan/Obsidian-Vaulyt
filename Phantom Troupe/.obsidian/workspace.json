@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "583d1bcee849bc41",
+        "id": "aafb3075b906d739",
         "type": "tabs",
         "children": [
           {
-            "id": "7514c0ca1b9e380f",
+            "id": "7619614c86b04ca1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PlayWright/JavaScript/Wrighting the First Test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Wrighting the First Test"
             }
           }
         ]
@@ -200,16 +204,23 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7514c0ca1b9e380f",
+  "active": "7619614c86b04ca1",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "PlayWright/JavaScript/Difference betwen the Selenium and playwright and cypress.md",
+    "PlayWright/JavaScript/Untitled 1.md",
+    "PlayWright/JavaScript/Wrighting the First Test.md",
+    "PlayWright/JavaScript",
+    "2025-11-08.md",
+    "Untitled 1.canvas",
+    "PlayWright/Playwright Installation, Testing, and Continuous Integration.md",
+    "PlayWright/Running Tests after Installing PlayWright.md",
     "PlayWright/PlayWright with TypeScript.md",
-    "PlayWright/Untitled.md",
+    "Untitled.canvas",
+    "PlayWright/Installing PlayWright.md",
+    "PlayWright/Introduction SDETQA.md",
     "Running.md",
     "Trace Viewer.md",
-    "PlayWright/Installing PlayWright.md",
     "Untitled",
-    "PlayWright/Running Tests after Installing PlayWright.md",
     "PlayWright/First Test.md",
     "Welcome.md",
     "API/API Status Codes.md",
@@ -227,8 +238,6 @@
     "OneNote/Arun's Notebook/Budget/March 2025 - 18,170.md",
     "OneNote/Learning/Postman/Newman Collection runner.md",
     "OneNote/Learning/Postman/Mock Server.md",
-    "OneNote/Learning/Java/Constructor.md",
-    "OneNote/Learning/Excel/Date Functions.md",
     "Exported image 20251022060949-10.jpeg",
     "Exported image 20251022060511-0.png",
     "Exported image 20251022060810-1.png",
@@ -241,12 +250,9 @@
     "Exported image 20251022061045-30.png",
     "Exported image 20251022061049-31.png",
     "Untitled.base",
-    "OneNote/Arun's Notebook/Series/Untitled-20251022061120.md",
-    "OneNote/Arun's Notebook/Series/Korean.md",
     "OneNote/Arun's Notebook/Series",
     "OneNote/Arun's Notebook/Selenium",
     "OneNote/Arun's Notebook/Ration Card Application",
-    "OneNote/Arun's Notebook/Quick Notes",
-    "OneNote/Arun's Notebook/New Section 1"
+    "OneNote/Arun's Notebook/Quick Notes"
   ]
 }

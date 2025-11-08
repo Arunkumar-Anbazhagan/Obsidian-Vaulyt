@@ -54,3 +54,7 @@ This method is recommended when using VS Code as it provides a UI for running an
     * Allows you to directly **Run** or **Debug** tests using UI buttons [23:59](https://youtu.be/IB2P1FBXjcQ?t=1439).
     * You can select specific browsers to run on [24:18](https://youtu.be/IB2P1FBXjcQ?t=1458).
     * It highlights steps during execution and shows the time taken by each step [24:26](https://youtu.be/IB2P1FBXjcQ?t=1466).
+
+
+#SDET QA
+x
