@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PlayWright/JavaScript/Wrighting the First Test.md",
+                "file": "PlayWright/Architecture of Playwright.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wrighting the First Test"
+              "title": "Architecture of Playwright"
             }
           }
         ]
@@ -206,18 +206,23 @@
   },
   "active": "7619614c86b04ca1",
   "lastOpenFiles": [
+    "PlayWright/Topics to cover.md",
+    "PlayWright/Architecture of Playwright.md",
+    "PlayWright/Playwright Installation, Testing, and Continuous Integration.md",
+    "PlayWright/Introduction SDETQA.md",
+    "PlayWright/Installing PlayWright.md",
+    "PlayWright/Test Structure.md",
+    "PlayWright/JavaScript/Untitled.md",
+    "PlayWright/Command on Playwright.md",
+    "PlayWright/JavaScript/Wrighting the First Test.md",
     "PlayWright/JavaScript/Difference betwen the Selenium and playwright and cypress.md",
     "PlayWright/JavaScript/Untitled 1.md",
-    "PlayWright/JavaScript/Wrighting the First Test.md",
     "PlayWright/JavaScript",
     "2025-11-08.md",
     "Untitled 1.canvas",
-    "PlayWright/Playwright Installation, Testing, and Continuous Integration.md",
     "PlayWright/Running Tests after Installing PlayWright.md",
     "PlayWright/PlayWright with TypeScript.md",
     "Untitled.canvas",
-    "PlayWright/Installing PlayWright.md",
-    "PlayWright/Introduction SDETQA.md",
     "Running.md",
     "Trace Viewer.md",
     "Untitled",
@@ -233,11 +238,6 @@
     "OneNote/Arun's Notebook/Quick Notes/Aditya Birla Policies.md",
     "2025-10-22.md",
     "PlayWright",
-    "OneNote/Arun's Notebook/Ration Card Application/தமிழ்.md",
-    "OneNote/Arun's Notebook/demo part-2/Subcontractor.md",
-    "OneNote/Arun's Notebook/Budget/March 2025 - 18,170.md",
-    "OneNote/Learning/Postman/Newman Collection runner.md",
-    "OneNote/Learning/Postman/Mock Server.md",
     "Exported image 20251022060949-10.jpeg",
     "Exported image 20251022060511-0.png",
     "Exported image 20251022060810-1.png",

@@ -14,12 +14,12 @@ Playwright
 
 The file naming structure is critical for the Playwright Test Runner to discover and execute tests.
 
-| Convention | Description |
-| :--- | :--- |
-| **Test File Extension** | Must use **`.spec.js`** or **`.spec.ts`** (for TypeScript). The term "spec" is short for "specification," signifying a file that defines the behavior of a feature. |
-| **Test File Location** | All test files must be created inside the designated **`test`** folder. |
-| **Keywords** | Test files must import and use the **`test`** block and **`expect`** function. |
-| **Asynchronous Code** | The test function block must be declared as **`async`**. Any action that interacts with the page (e.g., `page.goto()`, `expect()`, `page.close()`) must be preceded by **`await`**. This is necessary for sequential execution in Playwright's asynchronous JavaScript environment. |
+| Convention              | Description                                                                                                                                                                                                                                                                         |
+| :---------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Test File Extension** | Must use **`.spec.js`** or **`.spec.ts`** (for TypeScript). The term "spec" is short for "specification," signifying a file that defines the behavior of a feature.                                                                                                                 |
+| **Test File Location**  | All test files must be created inside the designated **`test`** folder.                                                                                                                                                                                                             |
+| **Keywords**            | Test files must import and use the **`test`** block and **`expect`** function.                                                                                                                                                                                                      |
+| **Asynchronous Code**   | The test function block must be declared as **`async`**. Any action that interacts with the page (e.g., `page.goto()`, `expect()`, `page.close()`) must be preceded by **`await`**. This is necessary for sequential execution in Playwright's asynchronous JavaScript environment. |
 
 ---
 
