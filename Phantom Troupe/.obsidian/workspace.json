@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/n8n/1. Intro to automation.md",
+                "file": "Learning/n8n/2. API and Webhooks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. Intro to automation"
+              "title": "2. API and Webhooks"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Learning/n8n/2. API and Webhooks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 2. API and Webhooks"
             }
           },
           {
@@ -202,11 +202,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,13 +227,13 @@
   },
   "active": "da973d26ec343d51",
   "lastOpenFiles": [
+    "Learning/n8n/1. Intro to automation.md",
     "Learning/Jmeter/1-introduction.md",
     "Learning/n8n/2. API and Webhooks.md",
     "Untitled.canvas",
     "{057E3007-995E-4720-891D-2F093EAA8C27}.png",
     "Untitled.base",
     "Learning/n8n/0. Index for n8n.md",
-    "Learning/n8n/1. Intro to automation.md",
     "Learning/Jmeter/33. bashshell-and-jsr223.md",
     "Learning/n8n",
     "Learning/Jmeter/34. flow-diagram.md",
