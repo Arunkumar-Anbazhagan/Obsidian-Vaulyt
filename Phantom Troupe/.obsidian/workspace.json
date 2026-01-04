@@ -11,14 +11,24 @@
             "id": "da973d26ec343d51",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Phantom Troupe/Learning/n8n/0. Index for n8n.md",
-                "bFile": "Phantom Troupe/Learning/n8n/0. Index for n8n.md",
-                "aRef": ""
+                "file": "Learning/n8n/1. Intro to automation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: 0. Index for n8n"
+              "icon": "lucide-file",
+              "title": "1. Intro to automation"
             }
           }
         ]
@@ -84,8 +94,7 @@
               "title": "Structured Tree"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,6 +190,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0d4dbf7eab6b3235",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 5
@@ -201,23 +220,24 @@
       "obsidian-git:Open Git source control": false,
       "structured-tree:Open Structured Tree": false,
       "obsidian-importer:Open Importer": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "da973d26ec343d51",
   "lastOpenFiles": [
+    "Learning/Jmeter/1-introduction.md",
+    "Learning/n8n/2. API and Webhooks.md",
+    "Untitled.canvas",
     "{057E3007-995E-4720-891D-2F093EAA8C27}.png",
     "Untitled.base",
-    "Learning/n8n/2. API and Webhooks.md",
     "Learning/n8n/0. Index for n8n.md",
     "Learning/n8n/1. Intro to automation.md",
     "Learning/Jmeter/33. bashshell-and-jsr223.md",
     "Learning/n8n",
     "Learning/Jmeter/34. flow-diagram.md",
-    "Untitled.canvas",
     "Learning/Jmeter/index.md",
     "Learning/Jmeter/2-installation-and-setup.md",
-    "Learning/Jmeter/1-introduction.md",
     "Learning/Jmeter/try-more-with-anytype.md",
     "Learning/Jmeter/llm-source.md",
     "Learning/Jmeter/jmeter-index.md",
