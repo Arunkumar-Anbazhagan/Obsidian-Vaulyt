@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "225094ee10538986",
+        "id": "1a29a8ba5d90c573",
         "type": "tabs",
         "children": [
           {
-            "id": "a374561c7307e748",
+            "id": "da973d26ec343d51",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "split-diff-view",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "aFile": "Phantom Troupe/Learning/n8n/0. Index for n8n.md",
+                "bFile": "Phantom Troupe/Learning/n8n/0. Index for n8n.md",
+                "aRef": ""
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "diff",
+              "title": "Diff: 0. Index for n8n"
             }
           }
         ]
@@ -87,7 +84,8 @@
               "title": "Structured Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -189,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,19 +204,25 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a374561c7307e748",
+  "active": "da973d26ec343d51",
   "lastOpenFiles": [
-    "Learning/Jmeter/index.md",
+    "{057E3007-995E-4720-891D-2F093EAA8C27}.png",
+    "Untitled.base",
+    "Learning/n8n/2. API and Webhooks.md",
+    "Learning/n8n/0. Index for n8n.md",
+    "Learning/n8n/1. Intro to automation.md",
+    "Learning/Jmeter/33. bashshell-and-jsr223.md",
+    "Learning/n8n",
+    "Learning/Jmeter/34. flow-diagram.md",
     "Untitled.canvas",
+    "Learning/Jmeter/index.md",
     "Learning/Jmeter/2-installation-and-setup.md",
     "Learning/Jmeter/1-introduction.md",
-    "Learning/Jmeter/34. flow-diagram.md",
     "Learning/Jmeter/try-more-with-anytype.md",
     "Learning/Jmeter/llm-source.md",
     "Learning/Jmeter/jmeter-index.md",
     "Learning/Jmeter/jmeter.md",
     "Learning/Jmeter/4-test-plan-elements.md",
-    "Learning/Jmeter/33. bashshell-and-jsr223.md",
     "Learning/Jmeter/32-distributed-load-test.md",
     "Learning/API/Course Video.md",
     "Learning/Jmeter/7-listeners.md",
@@ -242,9 +245,6 @@
     "Learning/Jmeter/8-assertion.md",
     "Learning/Jmeter/6-configuration-elements.md",
     "Learning/Jmeter/5-http-request-sampler.md",
-    "Learning/Jmeter/31-concurrent-thread-group.md",
-    "Learning/Jmeter/30-real-world-scenarios.md",
-    "Learning/Jmeter/29-tips-for-interviews.md",
     "Learning/Jmeter",
     "Learning/Anytype.20251231.021818.61/schemas/page.schema.json",
     "Learning/Anytype.20251231.021818.61/schemas/note.schema.json",
@@ -252,9 +252,6 @@
     "Learning/Anytype.20251231.021818.61/files/n8nio.jpg",
     "Learning/Anytype.20251231.021818.61/files/n8n.png",
     "Learning/Anytype.20251231.021818.61/files/n8n-logo.png",
-    "Learning/Anytype.20251231.021818.61/files/n8n-1.png",
-    "Learning/Anytype.20251231.021818.61/files",
-    "Learning/Anytype.20251231.021818.61",
     "Untitled 1.canvas"
   ]
 }
